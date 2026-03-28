@@ -1,2 +1,2 @@
 # second-hand-trading-platform
-基于二手交易平台
+基于信用体系的二手交易平台
